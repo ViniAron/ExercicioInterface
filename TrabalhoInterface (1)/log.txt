@@ -1,0 +1,6 @@
+2024-05-29 00:09:40 DEBUG: Essa é uma mensagem de depuração
+2024-05-29 00:09:41 WARNING: Essa é uma mensagem de alerta
+2024-05-29 00:09:41 ERROR: Essa é uma mensagem de erro
+2024-05-29 00:21:29 DEBUG: Essa é uma mensagem de debug
+2024-05-29 00:21:29 WARNING: Essa é uma mensagem de warning
+2024-05-29 00:21:29 ERROR: Essa é uma mensagem de error
